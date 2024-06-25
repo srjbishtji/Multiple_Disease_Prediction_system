@@ -1,5 +1,3 @@
-# pip install 
-# import library
 import os
 import pickle
 import streamlit as st
