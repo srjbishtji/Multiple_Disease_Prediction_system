@@ -654,7 +654,7 @@ if st.session_state.logged_in and selected == 'Learn about Diseases':
 if st.session_state.logged_in and selected == 'About':
     st.title("About")
     st.write("Welcome to the Health Assistant application!")
-    st.write("Health Assistant is a solo project developed by you, aimed at providing predictive analysis for multiple diseases using Machine Learning models.")
+    st.write("Health Assistant is a solo project developed by me, aimed at providing predictive analysis for multiple diseases using Machine Learning models.")
     st.write("Here's what you need to know about Health Assistant:")
 
     st.subheader("Purpose:")
