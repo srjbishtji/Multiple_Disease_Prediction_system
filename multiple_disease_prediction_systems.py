@@ -664,7 +664,7 @@ if st.session_state.logged_in and selected == 'About':
     st.write("Health Assistant is developed solely by you using Python and Streamlit, making it accessible and user-friendly. The Machine Learning models used for disease prediction are trained on relevant datasets to ensure accuracy and reliability.")
 
     st.subheader("Future Plans:")
-    st.write("As the sole developer of Health Assistant, you are committed to continuously improving the application to better serve users' needs. Here are some planned enhancements:")
+    st.write("As the sole developer of Health Assistant, I am committed to continuously improving the application to better serve users' needs. Here are some planned enhancements:")
     st.write("- Expansion of disease prediction capabilities: You aim to include predictions for additional diseases to offer a more comprehensive health assessment.")
     st.write("- Integration of personalized recommendations: In future updates, Health Assistant will provide tailored recommendations based on users' health data and predictive analysis.")
     st.write("- Enhanced user experience: You're working on refining the user interface and incorporating interactive features to enhance usability and engagement.")
